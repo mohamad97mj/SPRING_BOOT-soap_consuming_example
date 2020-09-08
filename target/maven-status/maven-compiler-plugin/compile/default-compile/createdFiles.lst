@@ -1,0 +1,9 @@
+com/example/consumingwebservice/wsdl/GetCountryRequest.class
+com/example/consumingwebservice/wsdl/GetCountryResponse.class
+com/example/consumingwebservice/CountryConfiguration.class
+com/example/consumingwebservice/wsdl/package-info.class
+com/example/consumingwebservice/wsdl/Currency.class
+com/example/consumingwebservice/ConsumingWebServiceApplication.class
+com/example/consumingwebservice/wsdl/Country.class
+com/example/consumingwebservice/CountryClient.class
+com/example/consumingwebservice/wsdl/ObjectFactory.class

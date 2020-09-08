@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f5b3838b-c34b-4db5-8843-fcf661ad730a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/consumingwebservice/ConsumingWebServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/consumingwebservice/ConsumingWebServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/consumingwebservice/CountryClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/consumingwebservice/CountryClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1hDQOo4bK69TPTlJhly0aJVm3U5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean package" />
+      <command value="mvn compile" />
+      <command value="mvn spring-boot:run" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="ConsumingWebServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="consuming-web-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.consumingwebservice.ConsumingWebServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5b3838b-c34b-4db5-8843-fcf661ad730a" name="Default Changelist" comment="" />
+      <created>1599543153903</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599543153903</updated>
+      <workItem from="1599543157179" duration="6330000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1320" height="181" key="GridCell.Tab.0.bottom" timestamp="1599552330480">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1320" height="181" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1599552330480" />
+    <state width="1320" height="181" key="GridCell.Tab.0.center" timestamp="1599552330479">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1320" height="181" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1599552330479" />
+    <state width="1320" height="181" key="GridCell.Tab.0.left" timestamp="1599552330478">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1320" height="181" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1599552330478" />
+    <state width="1320" height="181" key="GridCell.Tab.0.right" timestamp="1599552330480">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1320" height="181" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1599552330480" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1599550828514">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1366.768@0.0.1366.768" timestamp="1599550828514" />
+    <state x="385" y="55" width="586" height="665" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1599544551718">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="385" y="55" width="586" height="665" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.768@0.0.1366.768" timestamp="1599544551718" />
+    <state x="374" y="123" width="717" height="548" key="find.popup" timestamp="1599551349943">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="374" y="123" width="717" height="548" key="find.popup/0.0.1366.768@0.0.1366.768" timestamp="1599551349943" />
+    <state x="347" y="167" width="672" height="677" key="run.anything.popup" timestamp="1599551135656">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="347" y="167" width="672" height="677" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1599551135656" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/consumingwebservice/CountryClient.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
